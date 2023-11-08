@@ -1,0 +1,3 @@
+/home/st0rm/Desktop/BMSTU/tisd/lab3/cmake-build-debug/CMakeFiles/lab3.dir
+/home/st0rm/Desktop/BMSTU/tisd/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/st0rm/Desktop/BMSTU/tisd/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
